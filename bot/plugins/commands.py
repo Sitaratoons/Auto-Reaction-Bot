@@ -19,8 +19,10 @@ async def start_command(_, msg: Message):
             [
                 [
                     InlineKeyboardButton(text='⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'https://telegram.me/{Telegram.BOT_USERNAME}?startgroup=botstart')
-                ],
-                
+                ],  [
+        InlineKeyboardButton("• ᴜᴩᴅᴀᴛᴇꜱ •", url="https://t.me/sitaratoons"),
+        InlineKeyboardButton("• ꜱᴜᴩᴩᴏʀᴛ •", url="https://t.me/+KjFf9hluSthkNjFl")
+    ],  
                 [
                     InlineKeyboardButton(text='⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ⇆', url=f'https://telegram.me/{Telegram.BOT_USERNAME}?startchannel=botstart')
                 ]
