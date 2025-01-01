@@ -1,2 +1,5 @@
 https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 tgcrypto
+aiohttp
+Flask
+gunicorn
