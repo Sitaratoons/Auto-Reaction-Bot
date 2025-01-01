@@ -6,7 +6,7 @@ WelcomeText = \
 
 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/AcxAnime'>AcxAnime</a></blockquote>**"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : @AcxAnime</blockquote>**"""
 
 Help = \
 """
